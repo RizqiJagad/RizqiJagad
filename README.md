@@ -16,8 +16,6 @@
 
 <hr>
 
-### Halo, saya sudah memperbarui bagian "Skills & Tools" Anda dengan menghapus HTML dan CSS, lalu menggantinya dengan Elixir dan Tailwind CSS.
-
 🛠️ Skills & Tools
 <p align="left">
   <a href="https://elixir-lang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" alt="elixir" width="40" height="40"/> </a>
