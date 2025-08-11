@@ -1,34 +1,65 @@
-<h1 align="center">Hi 👋, I'm Taqiy Rizqi Jagad Samudra</h1>
+<h1 align="center">Hi, I'm Taqiy Rizqi Jagad Samudra</h1>
 <h3 align="center">A passionate Full Stack Developer from Jakarta, Indonesia</h3>
 
-<p align="left"> <img src="https://img.shields.io/badge/Junior-Full%20Stack%20Developer-blue" alt="Full Stack Developer" /> </p>
-
 <hr>
 
-### 💼 About Me
+<details open>
+	<summary style="font-size: 20px; font-weight:bold;">About Me</summary>
 
-- 🔭 I’m currently working on my personal portfolio website, built with **React and Vite**.
-- 🌱 I’m currently learning **Next.js and improving my skills in C# and Unity**.
-- 👯 I’m open to collaborating on **React.js or game development projects**.
-- 💬 Ask me about **web development, C#, or game design**.
-- 📫 How to reach me: **taqiyrizqijagad@gmail.com**
-- ⚡ Fun fact: **I love hiking and mountain climbing.**
+- ✨ Full Stack & Game Developer
+- 🏙️ From Jakarta, Indonesia
+- 🎓Fresh Graduate in Game Technology 
 
-<hr>
+</details>
 
-🛠️ Skills & Tools
-<p align="left">
-  <a href="https://elixir-lang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" alt="elixir" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/> </a>
-  <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://tailwindcss.com/_next/static/media/tailwindcss-logotype.a1069bda.svg)" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>
-</p>
+---
 
-<hr>
+<details open>
+	<summary style="font-size: 20px; font-weight:bold;">Languages and Tools: 🛠️ </summary>
+		<blockquote>
+
+<details open><summary style="font-size: 20px; ">Web Development 🖥️
+ </summary>
+&nbsp;
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4E2A8E?style=for-the-badge&logo=elixir&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</details>
+
+---
+
+<details open><summary style="font-size: 20px; ">Game Development & Tools 🎮</summary>
+&nbsp;
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050730?style=for-the-badge&logo=miro&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</details>
+
+---
+
+<details open><summary style="font-size: 20px; ">Database 🛢️</summary>
+&nbsp;
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
+</blockquote>
+</details>
+
+---
 
 ### 🔗 Connect with me
 <p align="left">
