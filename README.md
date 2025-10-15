@@ -6,9 +6,9 @@
 <details open>
 	<summary style="font-size: 20px; font-weight:bold;">About Me</summary>
 
-- ✨ Full Stack & Game Developer
-- 🏙️ From Jakarta, Indonesia
-- 🎓Fresh Graduate in Game Technology 
+- ✨ Full Stack & Game Developer  
+- 🏙️ From Jakarta, Indonesia  
+- 🎓 Fresh Graduate in Game Technology  
 
 </details>
 
@@ -18,16 +18,15 @@
 	<summary style="font-size: 20px; font-weight:bold;">Languages and Tools: 🛠️ </summary>
 		<blockquote>
 
-<details open><summary style="font-size: 20px; ">Web Development 🖥️
- </summary>
+<details open><summary style="font-size: 20px;">Web Development 🖥️</summary>
 &nbsp;
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4E2A8E?style=for-the-badge&logo=elixir&logoColor=white)
-![Phoenix](https://img.shields.io/badge/phoenix-E64B44?style=for-the-badge&logo=phoenix&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
@@ -35,7 +34,7 @@
 
 ---
 
-<details open><summary style="font-size: 20px; ">Game Development & Tools 🎮</summary>
+<details open><summary style="font-size: 20px;">Game Development & Tools 🎮</summary>
 &nbsp;
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -49,7 +48,7 @@
 
 ---
 
-<details open><summary style="font-size: 20px; ">Database 🛢️</summary>
+<details open><summary style="font-size: 20px;">Database 🛢️</summary>
 &nbsp;
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -66,7 +65,7 @@
 ### 🔗 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/taqiy-rizqi-jagad-samudra" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanketbodake" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taqiy-rizqi-jagad-samudra" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/sinibejo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sinibejo" height="30" width="40" />
