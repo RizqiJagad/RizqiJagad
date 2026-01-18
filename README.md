@@ -5,8 +5,9 @@
 # 🚀 Taqiy Rizqi Jagad Samudra
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=console.log('Hello%2C+World!+%F0%9F%91%8B');await+new+Promise(r%3D>setTimeout(r%2C+1000));console.log('Welcome+to+my+digital+garden+%F0%9F%8C%B1');" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=console.log('Kula%2C+Taqiy+%F0%9F%91%8B');await+new+Promise(r%3D>setTimeout(r%2C+1000));console.log('Sugeng+rawuh+ing+donya+digital+kula+%F0%9F%8C%B1');await+new+Promise(r%3D>setTimeout(r%2C+1000));console.log('Ngrakit+kode%2C+ngolah+logika%2C+lan+nggawé+solusi+kang+migunani+%F0%9F%9A%80');" alt="Typing SVG" />
 </div>
+
 
 ```javascript
 const developer = {
