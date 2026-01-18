@@ -1,18 +1,202 @@
-# 💫 About Me:
-I’m Taqiy Rizqi Jagad Samudra, a JavaScript Developer focused on frontend to fullstack web development and actively exploring the JavaScript backend ecosystem. I work with modern frameworks such as Remix, Astro, Nuxt.js, and SvelteKit, build backend services using Fastify and NestJS, and manage databases with PostgreSQL or MongoDB using ORMs like Prisma and Drizzle. In my development workflow, I apply testing, CI/CD, Docker, and deploy applications to serverless platforms like Vercel, while continuously improving my skills in building clean, scalable, and performant web applications.
+<div align="center">
+  <img src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif" width="100%" />
+</div>
 
+# 🚀 Taqiy Rizqi Jagad Samudra
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taqiy-rizqi-jagad-samudra/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/31333220/taqiy-rizqi-jagad-samudra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taqiyrizqijagad@gmail.com) 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=console.log('Hello%2C+World!+%F0%9F%91%8B');await+new+Promise(r%3D>setTimeout(r%2C+1000));console.log('Welcome+to+my+digital+garden+%F0%9F%8C%B1');" alt="Typing SVG" />
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Metero JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RizqiJagad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RizqiJagad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RizqiJagad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+```javascript
+const developer = {
+  name: "Taqiy Rizqi Jagad Samudra",
+  role: "JavaScript Engineer",
+  specialization: "Frontend → Fullstack",
+  currentFocus: "Modern Web Stacks & Scalable Architecture",
+  philosophy: "Clean Code > Clever Code",
+  status: "Building the future, one commit at a time"
+};
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RizqiJagad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎯 Current Mission
+```yaml
+Current Project: 🔥 Building scalable web applications with modern stacks
+Learning Deeply: ⚡ Advanced backend architecture & performance optimization
+Exploring: 🚀 Edge computing & Serverless patterns
+Next Goal: 📦 Mastering microservices with Node.js
+```
+
+---
+
+### 🛠️ Tech Arsenal
+
+#### 🚀 Frontend Dominance
+```text
+React/Next.js   ████████████████████░░░   90%
+Remix           █████████████████████░░░   95%
+Svelte/SvelteKit████████████████████░░░░   85%
+Astro           ██████████████████░░░░░░   80%
+Vue/Nuxt.js     ████████████████░░░░░░░   75%
+```
+
+#### ⚙️ Backend Engineering
+```text
+Node.js/Express  ████████████████████░░░   90%
+API Design       ████████████████████░░░   90%
+NestJS           ███████████████████░░░░   85%
+Database ORMs    █████████████████████░░   95%
+Fastify          █████████████████░░░░░░   70%
+```
+
+#### 📦 DevOps & Tools
+```text
+Vercel/Netlify   ██████████████████████░   98%
+Testing          ████████████████████░░░   90%
+CI/CD            ███████████████████░░░░   85%
+Performance Opt  ███████████████████░░░░   85%
+Docker           █████████████████░░░░░░   70%
+```
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+| Metrics | Stats |
+| :--- | :--- |
+| 🏆 **Total Contributions** | ![Contributions](https://img.shields.io/badge/Contributions-1k+-blue?style=flat-square) |
+| ⭐ **Stars Earned** | ![Stars](https://img.shields.io/badge/Stars-50+-yellow?style=flat-square) |
+| 🏗️ **Projects Built** | ![Projects](https://img.shields.io/badge/Projects-20+-orange?style=flat-square) |
+| 🎯 **Current Streak** | ![Streak](https://img.shields.io/badge/Streak-7%20days-green?style=flat-square) |
+
+<br/>
+
+</div>
+
+---
+
+### 🎨 Featured Tech Stack
+
+#### 🌐 Modern Frameworks
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+#### ⚡ Backend Ecosystem
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### 🗄️ Database & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-F7B93E?style=for-the-badge&logoColor=black) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### 🚀 Deployment & DevOps
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+#### 🧪 Testing
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+#### 🎨 Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
+
+---
+
+### 🎵 Development Vibe
+```yaml
+Currently Coding To: 🎧 Lo-fi beats & synthwave
+IDE Theme: 🌙 One Dark Pro
+Terminal: 🖥️ Warp with zsh & starship
+Browser: 🌐 Arc Browser
+Productivity: 📝 Notion + Linear
+Music: 🎵 "Coding Mode" playlist on loop
+```
+
+---
+
+### 📬 Connect With Me
+<div align="center">
+  <a href="https://linkedin.com/in/rizqijagad">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/yourid">
+    <img src="https://custom-icon-badges.demolab.com/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="mailto:taqiyrizqi@gmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/RizqiJagad">
+    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://custom-icon-badges.demolab.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+---
+
+### 📈 Recent Activity
+<!--START_SECTION:activity-->
+- 🌱  Planting new seeds in JavaScript ecosystem
+- ⚡  Optimizing performance in production apps
+- 🔧  Refactoring legacy code to modern patterns
+- 🚀  Deploying to edge platforms
+- 📚  Learning advanced backend architecture
+<!--END_SECTION:activity-->
+
+---
+
+### 🎯 Yearly Goals Progress
+```python
+goals_2024 = {
+    "master_remix": "✅ Completed",
+    "learn_go": "⏳ In Progress (60%)",
+    "build_oss_project": "⏳ In Progress (40%)",
+    "contribute_to_nuxt": "📅 Planned",
+    "master_docker_advanced": "⏳ In Progress (30%)",
+    "performance_optimization": "⏳ In Progress (75%)",
+    "mentor_juniors": "✅ Completed"
+}
+```
+
+---
+
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+Coming soon...
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<br/>
+
+<div align="center">
+  <h3>💡 Philosophy</h3>
+  <i>"I build applications that are not just functional, but delightful to use and maintain. Every line of code is a commitment to quality."</i>
+
+  <br/><br/>
+
+  <h3>🚀 Quick Stats</h3>
+  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?logo=javascript" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-Advanced-blue?logo=typescript" alt="TS" />
+  <img src="https://img.shields.io/badge/React-Expert-61DAFB?logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-Advanced-339933?logo=nodedotjs" alt="Node" />
+
+  <br/><br/>
+
+  <h3>📬 Let's Build Something Amazing</h3>
+  <p>Always open to interesting collaborations, challenging projects, and tech discussions!</p>
+
+  <img src="https://komarev.com/ghpvc/?username=RizqiJagad&color=blueviolet&style=flat-square&label=Profile+Views" alt="Views" />
+</div>
+
+<br/>
+
+<details> 
+  <summary><b>📊 Detailed GitHub Stats</b></summary>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizqiJagad&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
+</details>
+
+<br/>
+
+<p align="center"><i>README crafted with ❤️, powered by JavaScript, and deployed on the edge.</i></p>
